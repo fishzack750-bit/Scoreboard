@@ -1,0 +1,9 @@
+/scoreboard objectives add rank dummy
+/scoreboard objectives add money dummy
+/scoreboard objectives add tokens dummy
+/scoreboard objectives add kills dummy
+/scoreboard objectives add deaths dummy
+/scoreboard objectives add blocks dummy
+/scoreboard objectives add prestige dummy
+/scoreboard objectives add playtime dummy
+/scoreboard objectives add grind dummy
