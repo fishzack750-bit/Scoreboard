@@ -1,0 +1,40 @@
+/tititleraw @a actionbar {
+  "rawtext":[
+    {"text":"✨✨ BEST SKYGEN EXPERIENCE\n"},
+    {"text":"Created by bseph2696vns\n\n"},
+
+    {"text":"Rank: "},
+    {"score":{"name":"@s","objective":"Rank"}},
+    {"text":"   Name: "},
+    {"selector":"@s"},
+
+    {"text":"\nMoney: $"},
+    {"score":{"name":"@s","objective":"Money"}},
+    {"text":"   Tokens: "},
+    {"score":{"name":"@s","objective":"Tokens"}},
+
+    {"text":"\nKills: "},
+    {"score":{"name":"@s","objective":"Kills"}},
+    {"text":"   Deaths: "},
+    {"score":{"name":"@s","objective":"Deaths"}},
+    {"text":"   K/D: "},
+    {"score":{"name":"@s","objective":"KD"}},
+
+    {"text":"\nBlocks Mined: "},
+    {"score":{"name":"@s","objective":"Blocks"}},
+    {"text":"   Prestige: "},
+    {"score":{"name":"@s","objective":"Prestige"}},
+
+    {"text":"\n\nTime: "},
+    {"score":{"name":"@s","objective":"days"}},
+    {"text":"d "},
+    {"score":{"name":"@s","objective":"hours"}},
+    {"text":"h "},
+    {"score":{"name":"@s","objective":"minutes"}},
+    {"text":"m "},
+    {"score":{"name":"@s","objective":"seconds"}},
+    {"text":"s"},
+
+    {"text":"\nPlay • Grind • Become the Best ✨"}
+  ]
+}
