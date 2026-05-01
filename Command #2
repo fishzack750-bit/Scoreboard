@@ -1,0 +1,2 @@
+/execute @a[scores={minutes=60..}] ~~~ scoreboard players remove @s minutes 60
+/execute @a[scores={minutes=0}] ~~~ scoreboard players add @s hours 1
