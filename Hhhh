@@ -1,0 +1,3 @@
+/execute as @a[scores={rank=1}] run tag @s add Member
+/execute as @a[scores={rank=2}] run tag @s add VIP
+/execute as @a[scores={rank=3}] run tag @s add Admin
