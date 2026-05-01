@@ -1,0 +1,3 @@
+/execute as @a[scores={rank=1}] run titleraw @s actionbar {"rawtext":[{"text":"§7[Member]"}]}
+/execute as @a[scores={rank=2}] run titleraw @s actionbar {"rawtext":[{"text":"§a[VIP]"}]}
+/execute as @a[scores={rank=3}] run titleraw @s actionbar {"rawtext":[{"text":"§c[Admin]"}]}
