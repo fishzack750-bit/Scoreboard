@@ -1,0 +1,3 @@
+/execute as @a[scores={rank=1}] run nametag @s "[Member] @s"
+/execute as @a[scores={rank=2}] run nametag @s "[VIP] @s"
+/execute as @a[scores={rank=3}] run nametag @s "[Admin] @s"
