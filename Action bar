@@ -1,0 +1,24 @@
+/titleraw @a actionbar {
+  "rawtext":[
+    {"text":"§d§lHIVE §8» §r"},
+
+    {"text":"§7Rank: §bVIP §8| §7SS: §f"},
+    {"score":{"name":"*","objective":"time"}},
+
+    {"text":" §8| §7MM: §a$"},
+    {"score":{"name":"*","objective":"money"}},
+
+    {"text":" §8| §7HH: §c"},
+    {"score":{"name":"*","objective":"kills"}},
+
+    {"text":" §8| §7DD: §e"},
+    {"score":{"name":"*","objective":"deaths"}},
+
+    {"text":" §8| §7BLK: §6"},
+    {"score":{"name":"*","objective":"blocks"}},
+
+    {"text":" §8| §7LVL: §d"},
+    {"score":{"name":"*","objective":"level"}}
+
+    {"text":" §5| §7PlY: §6"},
+    {"score":{"name":"*","objective":"Players"}}
