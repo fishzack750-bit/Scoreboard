@@ -1,0 +1,7 @@
+/scoreboard objectives add money dummy
+/scoreboard objectives add kills playerKillCount
+/scoreboard objectives add deaths deathCount
+/scoreboard objectives add blocks dummy
+/scoreboard objectives add time dummy
+/scoreboard objectives add level dummy
+/scoreboard objectives add Players Playercount
