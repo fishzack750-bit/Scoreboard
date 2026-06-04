@@ -1,0 +1,1 @@
+/execute as @a[scores={Kills=1..}] run titleraw @s actionbar {"rawtext":[{"text":"§d+1 Kill §8| §5Void Energy Gained"}]}
