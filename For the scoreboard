@@ -1,0 +1,4 @@
+/scoreboard objectives add Rank dummy
+/scoreboard objectives add Deaths dummy
+/scoreboard objectives add Kills dummy
+/scoreboard objectives add Money dummy
