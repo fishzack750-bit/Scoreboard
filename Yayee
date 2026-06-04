@@ -1,0 +1,1 @@
+/execute as @a[scores={Kills=10..}] run titleraw @s actionbar {"rawtext":[{"text":"§c⚠ VOID POWER UNLOCKED ⚠"}]}
