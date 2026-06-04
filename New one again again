@@ -1,0 +1,24 @@
+/execute as @a run titleraw @s actionbar {"rawtext":[
+{"text":"§8▸ §5☁ ᴠᴏɪᴅ sᴋʏɢᴇɴ §c[OP] ☁ §8◂ §0| "},
+
+{"text":"§f"},
+{"selector":"@s"},
+
+{"text":" §8| §dOnline: §f"},
+{"score":{"name":"*","objective":"Online"}},
+
+{"text":" §8| §d$"},
+{"score":{"name":"*","objective":"Money"}},
+
+{"text":" §8| §5Kills: §f"},
+{"score":{"name":"*","objective":"Kills"}},
+
+{"text":" §8| §8Deaths: §f"},
+{"score":{"name":"*","objective":"Deaths"}},
+
+{"text":" §8| §dRank: §f"},
+{"score":{"name":"*","objective":"Rank"}},
+
+{"text":" §8| §5Streak: §f"},
+{"score":{"name":"*","objective":"Streak"}}
+]}
