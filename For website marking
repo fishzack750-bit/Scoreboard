@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skygen</title>
+
+  <style>
+    body {
+      background: black;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+    }
+
+    .box {
+      margin: 100px auto;
+      width: 300px;
+      background: #1a1a1a;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px lime;
+    }
+
+    h1 {
+      color: lime;
+    }
+
+    .stat {
+      margin: 10px 0;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="box">
+  <h1>SKYGEN</h1>
+
+  <div class="stat">💰 Money: 1000</div>
+  <div class="stat">☠️ Kills: 15</div>
+  <div class="stat">💀 Deaths: 3</div>
+  <div class="stat">⭐ Rank: OP Mod</div>
+</div>
+
+</body>
+</html>
