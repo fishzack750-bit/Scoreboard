@@ -1,0 +1,1 @@
+/execute as @a[hasitem={item=raw_iron}] at @s run playsound block.furnace.fire_crackle @s ~ ~ ~ 1 1
